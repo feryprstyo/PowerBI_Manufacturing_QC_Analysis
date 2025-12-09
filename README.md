@@ -45,11 +45,11 @@ Berdasarkan temuan di atas, direkomendasikan tindakan berikut:
 ##  Tinjauan Dashboard
 
 **[Halaman 1: Executive Summary]**
-
+![Ringkasan Eksekutif](dash1.png)
 
 **[Halaman 2: Root Cause Analysis]**
-`
+`![Ringkasan Eksekutif](dash2.png)
 
 **[Halaman 3: Financial Impact]**
-`
+`![Ringkasan Eksekutif](dash3.png)
 .
