@@ -53,3 +53,6 @@ Berdasarkan temuan di atas, direkomendasikan tindakan berikut:
 **[Halaman 3: Financial Impact]**
 `![Ringkasan Eksekutif](dash3.png)
 .
+
+## Source
+https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects/data
